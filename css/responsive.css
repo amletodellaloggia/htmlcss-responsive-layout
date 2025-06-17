@@ -31,4 +31,8 @@
 	.social-networks {
     gap: 15px;
 	}
+
+	.ads {
+	display: block;
+	}
 }
