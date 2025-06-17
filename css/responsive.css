@@ -1,4 +1,21 @@
 /* Soluzione qui */
+/* MEDIA @ LARGE MOBILE */
+@media all and (min-width: 576px) {
+  .presentation img {
+    float: left;
+    margin-right: 32px;
+  }
+  .btn {
+    padding: 10px 55px;
+  }
+
+  .social-networks {
+    gap: 15px;
+  }
+
+
+}
+
 /* MEDIA @ TABLET  */
 @media all and (min-width: 768px) {
   main {
