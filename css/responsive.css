@@ -27,4 +27,8 @@
 	.btn {
     padding: 10px 55px;
 	}
+
+	.social-networks {
+    gap: 15px;
+	}
 }
