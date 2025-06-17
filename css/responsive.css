@@ -48,6 +48,7 @@
 
 @media all and (min-width: 992px) {
 
+	.recipe-name {
+    font-size: 3em;
 
-	
 }
