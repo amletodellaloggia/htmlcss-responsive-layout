@@ -1,5 +1,10 @@
 /* Soluzione qui */
 @media all and (min-width: 768px) {
+
+	main {
+		padding: 45px;
+	}
+
 	#topbar {
 		justify-content: flex-start;
 	}
