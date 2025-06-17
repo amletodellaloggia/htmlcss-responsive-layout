@@ -63,4 +63,12 @@
 	.recipe-info {
 	width: 30%;
 	}
+
+	.social-networks .label{
+    display: inline;
+	}
+	
+	.btn {
+        padding: 10px 40px;
+	}
 }
