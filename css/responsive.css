@@ -12,4 +12,9 @@
 	.recipe-origin {
 		display: inline;
 	}
+
+	.recipe-name {
+		font-size: 2em;
+	}
+
 }
