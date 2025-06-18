@@ -5,12 +5,9 @@
     float: left;
     margin-right: 32px;
   }
-  .btn {
-    padding: 10px 55px;
-  }
 
-  .social-networks {
-    gap: 15px;
+  .social-networks button{
+    width: 20%;
   }
 
 
@@ -41,10 +38,6 @@
 
   .quick-notes ul li {
     width: calc(100% / 3);
-  }
-
-  .btn {
-    padding: 10px 55px;
   }
 
   .social-networks button{
@@ -92,10 +85,6 @@
 
   .social-networks .label {
     display: inline;
-  }
-
-  .btn {
-    padding: 10px 40px;
   }
 
   footer {
