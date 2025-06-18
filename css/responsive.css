@@ -72,6 +72,11 @@
     display: block;
   }
 
+    .quick-notes ul li {
+    width: 100%;
+  }
+
+
   .recipe-card {
     display: flex;
   }
