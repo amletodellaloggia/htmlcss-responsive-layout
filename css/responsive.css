@@ -47,8 +47,8 @@
     padding: 10px 55px;
   }
 
-  .social-networks {
-    gap: 15px;
+  .social-networks button{
+    width: 20%;
   }
 
   .ads {
