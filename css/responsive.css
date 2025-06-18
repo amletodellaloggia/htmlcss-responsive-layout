@@ -68,6 +68,10 @@
     font-size: 3em;
   }
 
+  .quick-notes ul {
+    display: block;
+  }
+
   .recipe-card {
     display: flex;
   }
