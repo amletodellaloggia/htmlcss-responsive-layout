@@ -30,7 +30,7 @@
     display: inline;
   }
 
-  .recipe-name {
+  .recipe-title {
     font-size: 2em;
   }
 
@@ -64,7 +64,7 @@
 /* MEDIA @ DESKTOP */
 
 @media all and (min-width: 992px) {
-  .recipe-name {
+  .recipe-title {
     font-size: 3em;
   }
 
