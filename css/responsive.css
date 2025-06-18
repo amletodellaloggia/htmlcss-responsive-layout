@@ -78,6 +78,7 @@
 
   .recipe-video {
     width: 70%;
+    max-height: 420px;
   }
 
   .recipe-info {
